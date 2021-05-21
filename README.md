@@ -6,7 +6,7 @@ This is my reading notes of the book "Practical Artificial Intelligence with Swi
 在你的iOS、macOS、tvOS和watchOS的Swift应用中创建并实现基于人工智能和机器学习的功能。构建使用强大的人工智能软件来实现识别图像、进行预测、生成内容、提出建议等功能。学习谷歌的Swift for Tensorflow库。
 
 [//]: # (Image References)
-[image1]: /images/swiftAIcover.jpeg "Cover"
+[image1]: ./images/swiftAIcover.jpeg "Cover"
 
 
 ![alt text][image1]
@@ -225,12 +225,22 @@ Part 2. Tasks
 
  Task: Sentiment Analysis
 
- Problem and Approach
+  Problem and Approach
 
- Building the App
+  Building the App
 
-
-
+  AI Toolkit and Dataset
+ 
+  Creating a Model
+ 
+  Incorporating the Model in the App
+ 
+ Task: Custom Text Classifiers
+  
+  AI Toolkit and Dataset
+  
+ Next Steps
+ 
 7. Motion and Gestures
 
 
